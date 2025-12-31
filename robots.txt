@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kumalum.github.io/sitemap.xml
